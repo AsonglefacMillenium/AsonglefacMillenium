@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Asonglefac Millenium. I am all Javascript but not only javascript
+- 👋 Hello World! I’m Asonglefac Millenium. I am all Javascript but not only javascript
 - 👀 I’m interested in Javascript, React.js, Frontend web development, Node.js, Flutter and Mobile App developent. In short anything JavaScript
 - 🌱 I’m currently learning React.js and Node.js
 - 💞️ I’m looking to collaborate on projects that involve javscript both frontend and backend
